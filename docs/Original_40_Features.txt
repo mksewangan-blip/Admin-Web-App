@@ -1,0 +1,777 @@
+Yes. For **Sewangan ERP — NGO Management System**, the complete feature set we have been building/planning is below. I am keeping this list aligned with your existing software requirements and **not removing any existing functionality**.
+
+# Sewangan ERP — Complete Features List
+
+## 1. Login & Security
+
+* Professional login page
+* Username + password
+* Show/hide password
+* Remember Me
+* Forgot password
+* Session management
+* Logout
+* Role-based access
+* Admin access
+* User access
+* Permission-controlled modules
+* Login page completely separate from the ERP shell
+* **No header, sidebar or footer on login page**
+
+---
+
+## 2. Main Dashboard
+
+Dashboard includes:
+
+* Welcome message
+* Global search
+* Members count
+* Employees count
+* Donors count
+* Beneficiaries count
+* Donations count
+* Projects count
+* **Get Donation** quick action
+* **Join Us** quick action
+* Quick-access module cards
+* Recent activities
+* Notifications
+* Summary information
+* Responsive dashboard
+
+---
+
+# 3. Organization Management
+
+* Organization profile
+* Sewangan Charitable Trust details
+* Address
+* Contact information
+* Registration information
+* NGO documents
+* Logo management
+* Organization settings
+* Branch/office information
+* Authorized persons
+
+---
+
+# 4. Member Management
+
+* Add member
+* Edit member
+* View member
+* Delete/deactivate member
+* Member ID
+* Personal details
+* Contact details
+* Address
+* Membership type
+* Membership status
+* Joining date
+* Member documents
+* Search members
+* Filter members
+* Member reports
+
+---
+
+# 5. Employee Management
+
+This is one of the major modules.
+
+### Employee records
+
+* Employee registration
+* Employee ID
+* Personal information
+* Contact information
+* Address
+* Qualification
+* Experience
+* Department
+* Designation
+* Occupation
+* Employment type
+* Joining date
+* Salary information
+* Bank information
+* Emergency contact
+* Documents
+* Employee status
+
+### Employee joining
+
+* Joining form
+* Joining letter
+* Appointment letter
+* Application
+* Letter/reference number
+* Automatic sequential numbering
+* Letter generation
+* Printable documents
+* Employee document records
+
+### Terms & Conditions
+
+Terms can be configured according to:
+
+* Occupation
+* Designation
+* Department
+* Employment type
+
+So there is **not one fixed set of terms for every employee**.
+
+---
+
+# 6. Volunteer Management
+
+* Volunteer registration
+* Volunteer ID
+* Personal information
+* Contact information
+* Skills
+* Area of interest
+* Availability
+* Joining date
+* Assigned activities
+* Volunteer status
+* Volunteer records
+* Volunteer reports
+
+---
+
+# 7. Beneficiary Management
+
+* Beneficiary registration
+* Beneficiary ID
+* Personal details
+* Family details
+* Address
+* Contact information
+* Category
+* Need/requirement
+* Documents
+* Assistance history
+* Beneficiary status
+* Search/filter
+* Beneficiary reports
+
+---
+
+# 8. Charity / Help Management
+
+### Ask for Help
+
+* Apply for Help
+* My Requests
+* Help request registration
+* Request number
+* Applicant information
+* Requirement details
+* Supporting documents
+* Request status
+* Pending
+* Approved
+* Rejected
+* Completed
+* Assistance history
+
+### Charity activities
+
+* Health assistance
+* Education assistance
+* Food assistance
+* Emergency assistance
+* Disaster relief
+* Social welfare assistance
+
+---
+
+# 9. Donation Management
+
+### Money Donations
+
+* Donor registration
+* Donation entry
+* Donation ID
+* Donation date
+* Amount
+* Payment mode
+* Donor details
+* Purpose
+* Campaign/project
+* Donation status
+* Receipt generation
+* Donation history
+
+### Donation receipt
+
+* Receipt number
+* Donor details
+* Amount
+* Date
+* Payment mode
+* Purpose
+* Organization information
+* Printable receipt
+
+---
+
+# 10. Goods Donation
+
+* New goods donation
+* Used goods donation
+* Donor information
+* Item details
+* Quantity
+* Condition
+* Estimated value
+* Doorstep pickup
+* Head office submission
+* Collection status
+* Received goods
+* Inventory integration
+
+---
+
+# 11. Donation Collection
+
+* Collection request
+* Doorstep collection
+* Collection date
+* Collector
+* Donor
+* Goods details
+* Collection status
+* Received confirmation
+* Collection records
+
+---
+
+# 12. Donor Management
+
+* Donor registration
+* Donor profile
+* Donor ID
+* Contact details
+* Donation history
+* Money donations
+* Goods donations
+* Campaign participation
+* Receipts
+* Donor reports
+
+---
+
+# 13. Fundraising
+
+* Fundraising campaigns
+* Campaign details
+* Target amount
+* Start/end date
+* Donor tracking
+* Donation tracking
+* Campaign progress
+* Campaign reports
+
+---
+
+# 14. Program Management
+
+* Create programs
+* Program details
+* Objectives
+* Beneficiaries
+* Budget
+* Activities
+* Responsible employees
+* Program status
+* Program documents
+* Program reports
+
+---
+
+# 15. Project Management
+
+* Create project
+* Project ID
+* Project name
+* Description
+* Location
+* Start date
+* End date
+* Budget
+* Expenses
+* Assigned employees
+* Beneficiaries
+* Project status
+* Documents
+* Project reports
+
+---
+
+# 16. Event Management
+
+* Create event
+* Event name
+* Date/time
+* Location
+* Organizer
+* Participants
+* Volunteers
+* Budget
+* Expenses
+* Event activities
+* Event documents
+* Event reports
+
+---
+
+# 17. Campaign Management
+
+* Create campaign
+* Campaign type
+* Campaign target
+* Start/end date
+* Donation tracking
+* Expenses
+* Volunteers
+* Beneficiaries
+* Campaign progress
+* Campaign reports
+
+---
+
+# 18. Attendance Management
+
+* Employee attendance
+* Volunteer attendance
+* Date-wise attendance
+* Present
+* Absent
+* Leave
+* Attendance reports
+* Monthly attendance
+
+---
+
+# 19. Leave Management
+
+* Leave application
+* Leave type
+* Leave balance
+* Approval/rejection
+* Leave history
+* Employee-wise records
+* Leave reports
+
+---
+
+# 20. Finance & Accounting
+
+### Accounts
+
+* Chart of accounts
+* Account management
+* Income
+* Expense
+* Assets
+* Liabilities
+
+### Transactions
+
+* Income transactions
+* Expense transactions
+* Transfers
+* Adjustments
+* Transaction history
+
+### Cash Book
+
+* Cash receipts
+* Cash payments
+* Running balance
+* Date-wise records
+
+### Bank Book
+
+* Bank receipts
+* Bank payments
+* Bank transfers
+* Running balance
+
+### Ledger
+
+* Account ledger
+* Debit
+* Credit
+* Balance
+* Date-wise filtering
+
+---
+
+# 21. Payment Management
+
+* Payment entry
+* Payment number
+* Payment date
+* Payee
+* Amount
+* Payment mode
+* Purpose
+* Account
+* Reference
+* Payment status
+
+---
+
+# 22. Receipt Management
+
+* Donation receipts
+* Payment receipts
+* Receipt numbering
+* Printable receipts
+* Receipt history
+* Search receipts
+* Reprint receipt
+
+---
+
+# 23. Voucher Management
+
+* Payment voucher
+* Receipt voucher
+* Journal voucher
+* Voucher number
+* Date
+* Account
+* Amount
+* Description
+* Printable voucher
+
+---
+
+# 24. Expense Management
+
+* Expense entry
+* Expense category
+* Amount
+* Date
+* Payment mode
+* Project
+* Program
+* Supporting document
+* Approval status
+* Expense reports
+
+---
+
+# 25. Inventory Management
+
+* Item master
+* Item category
+* Stock quantity
+* Stock value
+* New stock
+* Used goods
+* Donated goods
+* Stock-in
+* Stock-out
+* Current stock
+* Low-stock indication
+* Inventory history
+
+---
+
+# 26. Purchase Management
+
+* Purchase request
+* Purchase entry
+* Vendor
+* Items
+* Quantity
+* Rate
+* Total amount
+* Payment status
+* Purchase documents
+* Purchase history
+
+---
+
+# 27. Vendor Management
+
+* Vendor registration
+* Vendor ID
+* Contact details
+* Address
+* Products/services
+* Purchase history
+* Payment history
+* Vendor status
+
+---
+
+# 28. Asset Management
+
+* Asset registration
+* Asset ID
+* Asset category
+* Purchase date
+* Purchase value
+* Location
+* Assigned person
+* Condition
+* Maintenance
+* Asset status
+* Asset reports
+
+---
+
+# 29. Document Management
+
+* Organization documents
+* Employee documents
+* Beneficiary documents
+* Project documents
+* Donation documents
+* Certificates
+* Applications
+* Letters
+* Upload/download
+* Document categorization
+* Document search
+
+---
+
+# 30. Letter Management
+
+Especially important for the employee system.
+
+* Letter generation
+* Joining Letter
+* Appointment Letter
+* Applications
+* Reference number
+* Letter number
+* Automatic sequence
+* Printable letters
+* Letter history
+* Employee-wise letters
+
+### Letter Dispatch Register
+
+Every generated official letter can feed into:
+
+* Dispatch number
+* Letter number
+* Reference number
+* Date
+* Recipient
+* Subject
+* Department
+* Dispatch mode
+* Status
+
+---
+
+# 31. Certificate Management
+
+* Certificate creation
+* Certificate number
+* Beneficiary/member/employee
+* Certificate type
+* Issue date
+* Printable certificate
+* Certificate history
+
+---
+
+# 32. Meeting Management
+
+* Meeting creation
+* Meeting date
+* Location
+* Participants
+* Agenda
+* Minutes
+* Decisions
+* Follow-up actions
+* Meeting documents
+
+---
+
+# 33. Notification System
+
+* System notifications
+* Important alerts
+* Pending approvals
+* Donation notifications
+* Employee notifications
+* Task reminders
+* Notification history
+
+---
+
+# 34. Reports
+
+Reports can cover:
+
+* Members
+* Employees
+* Volunteers
+* Beneficiaries
+* Donations
+* Donors
+* Help requests
+* Projects
+* Programs
+* Events
+* Campaigns
+* Expenses
+* Income
+* Payments
+* Receipts
+* Cash book
+* Bank book
+* Ledger
+* Inventory
+* Purchases
+* Vendors
+* Assets
+* Attendance
+* Leave
+* Compliance
+
+With:
+
+* Search
+* Filters
+* Date range
+* Printable reports
+* Export-ready structure
+
+---
+
+# 35. Search
+
+Global search should allow searching across:
+
+* Employees
+* Members
+* Volunteers
+* Beneficiaries
+* Donors
+* Donations
+* Projects
+* Programs
+* Events
+* Documents
+* Reports
+
+---
+
+# 36. Settings
+
+* Organization settings
+* User settings
+* Language
+* Theme
+* Numbering settings
+* Letter numbering
+* Receipt numbering
+* Document settings
+* Terms & conditions
+* Department settings
+* Designation settings
+* Employment type settings
+* Occupation settings
+
+---
+
+# 37. Language
+
+Current planned languages:
+
+* **English**
+* **हिन्दी**
+
+Language selector in the application header.
+
+---
+
+# 38. UI / Layout
+
+The ERP layout includes:
+
+* Professional header
+* Sidebar navigation
+* Dropdown menus
+* Clean submenus
+* Active menu highlighting
+* Hover highlighting
+* Dashboard
+* Footer
+* Responsive design
+* Saffron + green branding direction
+* Clean cards
+* Icons
+* Search
+* Notifications
+* User menu
+
+### Login exception
+
+The login page is completely independent:
+
+**Login page → no header + no sidebar + no footer.**
+
+After successful login:
+
+**Dashboard → header + sidebar + footer appear.**
+
+---
+
+# 39. Role & Permission System
+
+The software should support:
+
+### Super Admin
+
+Full access.
+
+### Admin
+
+Administrative and operational access according to permissions.
+
+### Users/Staff
+
+Only assigned modules/functions.
+
+This prevents ordinary users from seeing every ERP function.
+
+---
+
+# 40. Data & System Infrastructure
+
+* Central application configuration
+* Local/session storage
+* User session
+* Language storage
+* Theme storage
+* Module routing
+* Common utilities
+* Common database/storage layer
+* Number generation
+* Reusable UI components
+* Module-based architecture
+
+---
+
+## Important
+
+This is the **feature inventory**, not a request to rebuild everything.
+
+For your current repair work, **existing features should remain intact**. We should fix the architecture/layout/module-loading problems without deleting modules or replacing working functionality unnecessarily.
