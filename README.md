@@ -1,6 +1,4 @@
-# Sewangan Admin — Android-first v2
-This Admin app reads AppModules, so all registered spreadsheet sheets appear automatically in grouped mobile module grids.
-Run backend/RepairSpreadsheet.gs -> repairSewanganAndroidV2() once, then update the existing Apps Script deployment.
-Admin login: U001 / CHANGE_ME_NOW
-The repair also creates a temporary National Secretary member login for testing the Main App.
-Razorpay is not activated; PaymentGateways and PaymentTransactions are future-ready integration layers.
+# Sewangan Admin v3
+Separate Admin design: global search directly below header and 3-column mobile module cards.
+Every registered module has module search, card register, detail view and generated Add/Edit form.
+Run repairSewanganAndroidV2() and addNgoV3Sheets() once after updating Code.gs, then update the existing Apps Script deployment.
