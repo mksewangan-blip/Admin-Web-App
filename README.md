@@ -1,24 +1,6 @@
-# Sewangan Admin ERP — Final Revised Build
-Important revised architecture:
-- Head Office - Sursand and National Office - Delhi are separate.
-- Offices: Head Office / National / State / District / Block. No Panchayat office.
-- Panchayat is an Area; one Associate Member per Panchayat; max 20 volunteers.
-- Admin approval creates member record + phone login + default password = lowercase first name + two-digit DOB day.
-- Admin can reset member password but cannot read existing password.
-- Active / Inactive / Blacklisted member states; blacklisted cannot login.
-- Main App Access matrix is designation-wise with View/Add/Edit/Delete/Approve and Scope.
-- Member cards include ID card, appointment letter, APK sharing, login sharing, status actions.
-- Referral tracking for member-app joining and member-referred donations.
-- Six-digit common receipt sequence.
-
-DEPLOY / REPAIR:
-1. Back up the current Google Sheet.
-2. Replace your deployed Apps Script `Code.gs` with `backend/Code.gs`.
-3. Add `backend/RepairSpreadsheet.gs`.
-4. Run `repairSewanganSpreadsheet()` ONCE.
-5. Re-deploy the Apps Script Web App as a NEW VERSION.
-6. Put the same Web App URL in both repositories' `config.js`.
-7. Set APK_URL in admin `config.js`.
-8. Upload repository files to GitHub and refresh GitHub Pages.
-
-Security note: this build hashes member passwords with SHA-256. For a high-risk production system, migrate authentication to a dedicated identity provider or salted adaptive password hashing service and restrict sensitive KYC/document storage.
+# Sewangan Admin — Android-first v2
+This Admin app reads AppModules, so all registered spreadsheet sheets appear automatically in grouped mobile module grids.
+Run backend/RepairSpreadsheet.gs -> repairSewanganAndroidV2() once, then update the existing Apps Script deployment.
+Admin login: U001 / CHANGE_ME_NOW
+The repair also creates a temporary National Secretary member login for testing the Main App.
+Razorpay is not activated; PaymentGateways and PaymentTransactions are future-ready integration layers.
